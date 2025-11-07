@@ -48,8 +48,6 @@ Using **Python**, **SQL**, and **Power BI**, the analysis explores customer demo
 | 14 | **Seasonal Ratings** | Which season receives the best product ratings? |
 | 15 | **Shipping Performance** | Which shipping type yields the highest revenue and satisfaction? |
 
----
-
 ### 3️⃣ Data Visualization (Power BI)
 **File:** `Customer_shopping_behavior.pbix`
 
