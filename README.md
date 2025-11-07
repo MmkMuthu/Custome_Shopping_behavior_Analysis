@@ -75,10 +75,10 @@ The Power BI dashboard turns SQL insights into interactive visuals.
 
 ## 🛠️ Tools & Technologies
 
- **Python (Pandas)** — Data preparation
- **SQL (MySQL)** — Exploratory data analysis  
- **Power BI** — Interactive visualization and dashboarding  
- **Core Skills:** Data Cleaning, EDA, Business Intelligence, Data Storytelling  
+**Python (Pandas)** — Data preparation
+**SQL (MySQL)** — Exploratory data analysis  
+**Power BI** — Interactive visualization and dashboarding  
+**Core Skills:** Data Cleaning, EDA, Business Intelligence, Data Storytelling  
  
 ---
 
