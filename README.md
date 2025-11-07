@@ -50,23 +50,6 @@ Using **Python**, **SQL**, and **Power BI**, the analysis explores customer demo
 
 ---
 
-## 📊 Insights Summary
-
-The analysis uncovered several key findings about customer purchasing behavior:
-
-- **Total Revenue:** The business generated approximately **233K** from **3.9K customers**.  
-- **Gender Insight:** **Male customers (67.7%)** contribute more to total revenue than female customers.  
-- **Top Category:** **Clothing** leads all categories in revenue, followed by **Accessories**.  
-- **Seasonal Trend:** **Fall** is the highest-performing season, showing peak customer activity and spending.  
-- **Age Group:** **Young and middle-aged customers** account for the majority of purchases.  
-- **Subscription Impact:** Subscribed customers buy more frequently and leave higher review ratings.  
-- **Discount Behavior:** Discounts slightly increase purchasing activity but have a limited effect on total revenue.  
-- **Satisfaction Rating:** The average product rating is **3.75**, indicating moderate customer satisfaction.
-
-> 💡 *These insights help identify target customer segments, improve marketing strategies, and enhance customer experience through data-driven decisions.*
-
----
-
 ### 3️⃣ Data Visualization (Power BI)
 **File:** `Customer_shopping_behavior.pbix`
 
@@ -87,7 +70,7 @@ The Power BI dashboard turns SQL insights into interactive visuals.
 ---
 
 ## 📸 Dashboard_Preview
-![Customer Behavioral Dashboard](Dashnoard_Preview.png)
+![Customer Shooppig_Behavior Dashboard](Dashnoard_Preview.png)
 
 ---
 
