@@ -22,11 +22,10 @@ Using **Python**, **SQL**, and **Power BI**, the analysis explores customer demo
 
 **Key Tasks:**
 - Imported and explored the raw customer dataset  
-- Checked data types, structure, and quality  
-- Handled missing and inconsistent values  
-- Created a cleaned dataset for further analysis  
-
----
+- Examined data types, structure, and completeness  
+- Cleaned missing, inconsistent, and duplicate records  
+- Standardized column names and formats  
+- Exported a **cleaned dataset** for SQL-based analysis
 
 ### 2️⃣ Exploratory Data Analysis (SQL)
 **File:** `customer_shopping_behavior_cleaned.sql`
@@ -51,12 +50,20 @@ Using **Python**, **SQL**, and **Power BI**, the analysis explores customer demo
 
 ---
 
-## 🧠 Insights (Summary)
-- **Gender:** Males generated higher total revenue than females  
-- **Age:** Young and middle-aged groups contribute the most  
-- **Location:** Certain states consistently outperform others in sales  
-- **Discounts:** Moderate influence — some discount users spend more  
-- **Subscriptions:** Subscribers purcha
+## 📊 Insights Summary
+
+The analysis uncovered several key findings about customer purchasing behavior:
+
+- **Total Revenue:** The business generated approximately **233K** from **3.9K customers**.  
+- **Gender Insight:** **Male customers (67.7%)** contribute more to total revenue than female customers.  
+- **Top Category:** **Clothing** leads all categories in revenue, followed by **Accessories**.  
+- **Seasonal Trend:** **Fall** is the highest-performing season, showing peak customer activity and spending.  
+- **Age Group:** **Young and middle-aged customers** account for the majority of purchases.  
+- **Subscription Impact:** Subscribed customers buy more frequently and leave higher review ratings.  
+- **Discount Behavior:** Discounts slightly increase purchasing activity but have a limited effect on total revenue.  
+- **Satisfaction Rating:** The average product rating is **3.75**, indicating moderate customer satisfaction.
+
+> 💡 *These insights help identify target customer segments, improve marketing strategies, and enhance customer experience through data-driven decisions.*
 
 ---
 
