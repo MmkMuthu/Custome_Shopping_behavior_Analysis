@@ -102,6 +102,5 @@ By integrating Python, SQL, and Power BI, it transforms raw data into powerful i
 ## 🤝 Connect With Me
 I’m always open to connecting with data professionals, recruiters, and analytics enthusiasts!  
 
-- 📧 **Email:** muthumani.analystl@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/muthumani005](https://www.linkedin.com/in/muthumani005)  
 - 🐙 **GitHub:** [github.com/MmkMuthu](https://github.com/MmkMuthu)
