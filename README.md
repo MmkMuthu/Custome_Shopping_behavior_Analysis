@@ -68,7 +68,7 @@ The Power BI dashboard turns SQL insights into interactive visuals.
 ---
 
 ## 📸 Dashboard_Preview
-![Customer Shooppig_Behavior Dashboard](Dashnoard_screenshot.png)
+![Customer Shooppig_Behavior Dashboard](Dashboard_Screenshot.png)
 
 ---
 
