@@ -2,7 +2,6 @@
 
 ## 🚀 Project Overview
 This project provides a **comprehensive analysis of customer shopping behavior** to support data-driven decision-making in a retail environment.
-
 Using **Python**, **SQL**, and **Power BI**, the analysis explores customer demographics, purchasing frequency, seasonal trends, loyalty patterns, and satisfaction levels.  
 It delivers a complete analytical process — from **data preparation** to **insight visualization** — that helps uncover key business opportunities.
 
